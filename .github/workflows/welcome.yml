@@ -1,0 +1,4 @@
+name: Welcome
+on:
+  pull_request:
+    types: [opened]
